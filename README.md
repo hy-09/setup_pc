@@ -1,6 +1,6 @@
 ## 手動で入れるもの
-github desktop
-xcode
+- github desktop
+- xcode
 
 
 
