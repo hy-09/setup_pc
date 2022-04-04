@@ -1,0 +1,12 @@
+brew install zoomus
+brew install docker
+brew install google-chrome
+brew install mamp
+brew install visual-studio-code
+brew install chatwork
+brew install nodebrew
+brew install git
+brew install android-studio
+brew install clipy
+brew install tableplus
+nodebrew install-binary latest
