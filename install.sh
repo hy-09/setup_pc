@@ -6,6 +6,7 @@ brew install visual-studio-code
 brew install chatwork
 brew install nodebrew
 brew install git
+brew install flutter
 brew install android-studio
 brew install clipy
 brew install tableplus
