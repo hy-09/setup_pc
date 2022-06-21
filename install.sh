@@ -8,6 +8,7 @@ brew install chatwork
 brew install node@16
 brew install clipy
 brew install mysql
+brew install httpd
 brew install git
 brew install php@7.4
 brew install php@8.0
