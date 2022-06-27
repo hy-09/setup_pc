@@ -1,6 +1,7 @@
 brew install zoomus
 brew install --cask docker
 brew install --cask github
+brew install --cask discord
 brew install google-chrome
 brew install mamp
 brew install visual-studio-code
