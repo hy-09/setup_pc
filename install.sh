@@ -13,4 +13,4 @@ brew install git
 brew install php@7.4
 brew install php@8.0
 brew install tableplus
-brew install nodebrew
+brew install node@16
