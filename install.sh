@@ -1,4 +1,4 @@
-brew install zoomus
+brew install zoom
 brew install --cask docker
 brew install --cask github
 brew install --cask discord
