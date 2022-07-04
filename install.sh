@@ -5,7 +5,7 @@ brew install --cask discord
 brew install google-chrome
 brew install visual-studio-code
 brew install chatwork
-brew install node@16
+brew install composer
 brew install clipy
 brew install mysql
 brew install httpd
