@@ -2,6 +2,9 @@ brew install zoom
 brew install --cask docker
 brew install --cask github
 brew install --cask discord
+brew install --cask anydesk
+brew install --cask slack
+brew install --cask fuwari
 brew install google-chrome
 brew install visual-studio-code
 brew install chatwork
